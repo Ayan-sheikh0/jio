@@ -317,6 +317,14 @@ color: white;
     font-size: 14px;
   }
 
+    #swi{
+            position: absolute;
+    top: 200px;
+    left: 20px;
+    padding: 8px 20px;
+    font-size: 14px;
+    }
+
   /* Main Section */
   .main {
     padding: 40px 20px;
